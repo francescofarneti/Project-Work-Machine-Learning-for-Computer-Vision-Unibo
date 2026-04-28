@@ -1,3 +1,3 @@
-## **Face Recognition: Studio delle Loss Function basate sulla Similarità del Coseno**
+## **Face Recognition: A Study of Cosine Similarity–Based Loss Functions**
 
-Questo progetto esplora l'efficacia delle funzioni di perdita ad ampio margine angolare (Angular Margin Loss) nel compito del riconoscimento facciale. L'obiettivo principale è confrontare diverse loss che ottimizzano lo spazio embedding per rendere le rappresentazioni delle classi più discriminative.
+This notebook explores the effectiveness of Angular Margin Loss functions in face recognition tasks. The primary objective is to compare different loss functions that optimize the embedding space to make class representations more discriminative.
